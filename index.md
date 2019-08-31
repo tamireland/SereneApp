@@ -17,7 +17,7 @@ software design practices.
 
 ---
 
-![Screenshot](docs/img/dashboard.png)
+![Screenshot](docs/images/dashboard.png)
 
 ## Getting help
 
