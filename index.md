@@ -17,7 +17,7 @@ software design practices.
 
 ---
 
-![Screenshot](docs/images/dashboard.png)
+![Dashboard](https://github.com/tamireland/SereneApp/blob/master/docs/images/dashboard.PNG)
 
 ## Getting help
 
