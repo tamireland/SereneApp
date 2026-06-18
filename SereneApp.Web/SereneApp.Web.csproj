@@ -19,7 +19,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="MailKit" Version="2.0.6" />
+    <PackageReference Include="MailKit" Version="4.16.0" />
     <PackageReference Include="Microsoft.TypeScript.MSBuild" Version="3.1.1" />
     <PackageReference Include="Serenity.FluentMigrator.Runner" Version="1.6.904" />
     <PackageReference Include="Microsoft.Data.Sqlite" Version="2.0.0" />
