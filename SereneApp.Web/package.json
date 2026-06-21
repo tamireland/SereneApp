@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "serene.aspnetcore",
   "version": "1.0.0",
   "description": "SereneApp ASP.NET Core",
@@ -17,7 +17,7 @@
     "@types/react": "^16.3.14",
     "@types/sortablejs": "^1.3.31",
     "@types/toastr": "^2.1.33",
-    "less": "^2.7.2",
+    "less": "^4.6.6",
     "vue": "^2.5.2"
   },
   "devDependencies": {},
